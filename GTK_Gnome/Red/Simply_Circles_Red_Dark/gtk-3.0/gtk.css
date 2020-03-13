@@ -1750,6 +1750,7 @@ menu menuitem,
   padding: 4px 8px;
   font: initial;
   text-shadow: none;
+  color: #521;
 }
 
 menu menuitem:hover,
@@ -1757,7 +1758,7 @@ menu menuitem:hover,
 .context-menu menuitem:hover {
   transition: none;
   background-color: rgba(160, 44, 44, 0.1);
-  color: #A02C2C;
+  color:white;
 }
 
 menu menuitem:hover accelerator,
